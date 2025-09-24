@@ -1,0 +1,2 @@
+Marca: Kia Modelo: Sportage Tipo Motor: Hibrido Cilindrada: 2100 Color Chasis: Negro Material Chasis: Aluminio
+Marca: Ferrari Modelo: Diablo Tipo Motor: Gasolina Cilindrada: 5500 Color Chasis: Rojo Material Chasis: Vibranium
