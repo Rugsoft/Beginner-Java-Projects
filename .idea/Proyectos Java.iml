@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Ejercicios y ejemplos varios Curso SOC/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GUIwindows/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SocketsServicios/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ProcesosProgramacionConcurrente/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

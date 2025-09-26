@@ -2,27 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ccb8d560-15a7-4c30-a2ef-f2d17931b80f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Proyectos Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Proyectos Java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios y ejemplos varios Curso SOC/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios y ejemplos varios Curso SOC/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios y ejemplos varios Curso SOC/.idea/copilot.data.migration.agent.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios y ejemplos varios Curso SOC/.idea/copilot.data.migration.ask.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios y ejemplos varios Curso SOC/.idea/copilot.data.migration.ask2agent.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios y ejemplos varios Curso SOC/.idea/copilot.data.migration.edit.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios y ejemplos varios Curso SOC/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios y ejemplos varios Curso SOC/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios y ejemplos varios Curso SOC/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios y ejemplos varios Curso SOC/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios y ejemplos varios Curso SOC/Ejemplos2025.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUIwindows/bin/calculadora/VentanaPrincipal$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/GUIwindows/bin/calculadora/VentanaPrincipal$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUIwindows/bin/calculadora/VentanaPrincipal$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/GUIwindows/bin/calculadora/VentanaPrincipal$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUIwindows/bin/calculadora/VentanaPrincipal$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/GUIwindows/bin/calculadora/VentanaPrincipal$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUIwindows/bin/calculadora/VentanaPrincipal$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/GUIwindows/bin/calculadora/VentanaPrincipal$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUIwindows/bin/calculadora/VentanaPrincipal$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/GUIwindows/bin/calculadora/VentanaPrincipal$5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUIwindows/bin/calculadora/VentanaPrincipal.class" beforeDir="false" afterPath="$PROJECT_DIR$/GUIwindows/bin/calculadora/VentanaPrincipal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUIwindows/src/calculadora/VentanaPrincipal.java" beforeDir="false" afterPath="$PROJECT_DIR$/GUIwindows/src/calculadora/VentanaPrincipal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Proyectos Java/calculadora/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Proyectos Java/calculadora/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Proyectos Java/calculadora/VentanaPrincipal$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Proyectos Java/calculadora/VentanaPrincipal$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Proyectos Java/calculadora/VentanaPrincipal$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Proyectos Java/calculadora/VentanaPrincipal$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Proyectos Java/calculadora/VentanaPrincipal$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Proyectos Java/calculadora/VentanaPrincipal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Proyectos Java/ejemploVentana/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Proyectos Java/ejemploVentana/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Proyectos Java/ejemploVentana/MiPrimeraVentana$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Proyectos Java/ejemploVentana/MiPrimeraVentana$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Proyectos Java/ejemploVentana/MiPrimeraVentana.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Proyectos Java/module-info.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,17 +46,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Console Font&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Console Font"
   }
-}</component>
+}]]></component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="ccb8d560-15a7-4c30-a2ef-f2d17931b80f" name="Changes" comment="" />
