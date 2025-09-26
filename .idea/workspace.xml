@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ccb8d560-15a7-4c30-a2ef-f2d17931b80f" name="Changes" comment="" />
+    <list default="true" id="ccb8d560-15a7-4c30-a2ef-f2d17931b80f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUIwindows/src/criaturasFantasticas/EscribirFichero.java" beforeDir="false" afterPath="$PROJECT_DIR$/GUIwindows/src/criaturasFantasticas/EscribirFichero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUIwindows/src/fabricaRobots/EscribirFichero.java" beforeDir="false" afterPath="$PROJECT_DIR$/GUIwindows/src/fabricaRobots/EscribirFichero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUIwindows/src/fabricaRobots/VentanaPrincipalRobots.java" beforeDir="false" afterPath="$PROJECT_DIR$/GUIwindows/src/fabricaRobots/VentanaPrincipalRobots.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Proyectos Java/criaturasFantasticas/EscribirFichero.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Proyectos Java/criaturasFantasticas/EscribirFichero.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Proyectos Java/fabricaRobots/EscribirFichero.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Proyectos Java/fabricaRobots/EscribirFichero.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Proyectos Java/fabricaRobots/VentanaPrincipalRobots.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Proyectos Java/fabricaRobots/VentanaPrincipalRobots.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

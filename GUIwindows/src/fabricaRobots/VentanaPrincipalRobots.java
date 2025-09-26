@@ -171,6 +171,12 @@ public class VentanaPrincipalRobots extends JFrame {
 			ef.pasarAFichero(cadena);
 			contadorRobots += 1;
 		}
+        JOptionPane.showMessageDialog(
+                null,
+                "Roboces guardados",
+                "Información",
+                JOptionPane.INFORMATION_MESSAGE
+        );
 		//String cadena = (robots.get(contadorRobots)).datosRobot();
 		//cadena = "Robot: " +contadorRobots+ " " + cadena;
 		//EscribirFichero ef = new EscribirFichero();

@@ -9,9 +9,10 @@ public class EscribirFichero {
 	
 	public void pasarAFichero(String cadena) {
 		
-		String rutaFichero = "C:\\Users\\Usuario\\Desktop\\Robotos.txt";
+		//String rutaFichero = "C:\\Users\\Usuario\\Desktop\\Robotos.txt";
+        String rutaFicheroCasa = "/home/rugsoft/Escritorio/Robotos.txt";
 		
-        try (FileWriter escritor = new FileWriter(rutaFichero, true)) {
+        try (FileWriter escritor = new FileWriter(rutaFicheroCasa, true)) {
         	
             	escritor.write(cadena + "\n");
             
