@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ccb8d560-15a7-4c30-a2ef-f2d17931b80f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/out/production/Proyectos Java/calculadora/Main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Proyectos Java/calculadora/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Proyectos Java/calculadora/VentanaPrincipal$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Proyectos Java/calculadora/VentanaPrincipal$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Proyectos Java/calculadora/VentanaPrincipal$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Proyectos Java/calculadora/VentanaPrincipal$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Proyectos Java/calculadora/VentanaPrincipal$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Proyectos Java/calculadora/VentanaPrincipal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Proyectos Java/ejemploVentana/Main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Proyectos Java/ejemploVentana/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Proyectos Java/ejemploVentana/MiPrimeraVentana$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Proyectos Java/ejemploVentana/MiPrimeraVentana$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Proyectos Java/ejemploVentana/MiPrimeraVentana.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Proyectos Java/module-info.class" beforeDir="false" />
-    </list>
+    <list default="true" id="ccb8d560-15a7-4c30-a2ef-f2d17931b80f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +36,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.EjemploSemaforo.executor": "Run",
     "Application.Main.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
